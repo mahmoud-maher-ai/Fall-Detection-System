@@ -26,7 +26,7 @@ An advanced, real-time fall detection system combining state-of-the-art Computer
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
 ```bash
